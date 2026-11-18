@@ -18,6 +18,7 @@ Read `references/3ms-framework.md` once. It's how {{Your Name}} thinks about AI 
 - `/link`: Link a project, file, folder, or source into the right operating-manual route or index.
 - `/3d-brain`: Choose a brain name and categories, then build a local 3D knowledge globe with Cinema and interactive growth replay. Uses selected local files and the bundled app template.
 - `/level-up` — Weekly 3Ms interview. Find one automation, scope it, ship it. One per week.
+- Remotion video skills (third-party, from `remotion-dev/skills`): start with `/remotion-best-practices`, which routes to `/remotion-create`, `/remotion-render`, `/remotion-captions`, `/remotion-studio` and the rest. Update with `npx skills update`; versions pinned in `skills-lock.json`.
 
 ## Where things live
 
